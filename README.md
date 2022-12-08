@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @YakiQuiso, 17 y.o and music producer
+- 👀 I’m interested in C++ software & game development
+- 🌱 I’m currently learning C++ basics
+- 💞️ I’m not looking to collaborate for now
+- 📫 How to reach me: email: guieamorim@protonmail.com | Discord: Yakiso Quiso#9414
