@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @YakiQuiso, 19 y.o and music producer
-- 👀 I’m interested in game and software development
-- 🌱 I’m currently learning GDscript/Godot
+- 👋 Hi, I’m @YakiQuiso, 21 y.o music producer
+- 👀 I’m interested in game and web development
+- 🌱 I’m currently learning GDscript/Godot/JS
 - 💞️ I’m not looking to collaborate for now
 - 📫 How to reach me: email: guieamorim@protonmail.com | Discord: yakisoquiso
