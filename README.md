@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @YakiQuiso, 21 y.o music producer
-- 👀 I’m interested in game and web development
-- 🌱 I’m currently learning GDscript/Godot/JS
+- 👋 Hi, I’m @YakiQuiso, music producer, video editor, web dev and 2D artist born on 2005
+- 👀 I’m interested in learning, practicing and improving
+- 🌱 I’m currently learning JS, Davinci Resolve and Krita
 - 💞️ I’m not looking to collaborate for now
-- 📫 How to reach me: email: guieamorim@protonmail.com | Discord: yakisoquiso
+- 📫 How to reach me: email: guieamorim@protonmail.com
